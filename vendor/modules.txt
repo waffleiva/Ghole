@@ -1,0 +1,53 @@
+# github.com/klauspost/cpuid/v2 v2.0.2
+github.com/klauspost/cpuid/v2
+# github.com/klauspost/reedsolomon v1.9.11
+## explicit
+github.com/klauspost/reedsolomon
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/templexxx/cpu v0.0.1
+github.com/templexxx/cpu
+# github.com/templexxx/cpufeat v0.0.0-20180724012125-cef66df7f161
+## explicit
+github.com/templexxx/cpufeat
+# github.com/templexxx/xor v0.0.0-20191217153810-f85b25db303b
+## explicit
+github.com/templexxx/xor
+# github.com/templexxx/xorsimd v0.4.1
+## explicit
+github.com/templexxx/xorsimd
+# github.com/tjfoc/gmsm v1.4.0
+## explicit
+github.com/tjfoc/gmsm/sm4
+# github.com/xtaci/kcp-go v5.4.20+incompatible
+## explicit
+github.com/xtaci/kcp-go
+# github.com/xtaci/lossyconn v0.0.0-20200209145036-adba10fffc37
+## explicit
+# github.com/xtaci/smux v1.5.15
+## explicit
+github.com/xtaci/smux
+# golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
+## explicit
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/salsa20
+golang.org/x/crypto/salsa20/salsa
+golang.org/x/crypto/tea
+golang.org/x/crypto/twofish
+golang.org/x/crypto/xtea
+# golang.org/x/net v0.0.0-20210119194325-5f4716e94777
+## explicit
+golang.org/x/net/bpf
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+# golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
